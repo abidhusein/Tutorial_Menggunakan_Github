@@ -20,7 +20,7 @@
 
 ![Gambar 3](ssan/3.png)
 
-Setelah muncul tampilan seperti gambar dibawah
-10. Klik Code kemudian kalian bisa pilih HTTPS, SSH, Github, atau CLI. Lalu copy link yang tersedia
+Setelah muncul tampilan seperti gambar dibawah<p>
+10. Klik Code kemudian kalian bisa pilih HTTPS, SSH, Github, atau CLI. Lalu copy link yang tersedia<p>
 
 ![Gambar 4](ssan/4.png)
