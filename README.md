@@ -2,7 +2,7 @@
 ## Tutorial
 
 
-[Gif 1](ssan/1g.gif)
+![Gif 1](ssan/1g.gif)
 
 
 
