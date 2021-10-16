@@ -2,7 +2,7 @@
 ## Tutorial
 
 <p align="center">
-<img src="1g.gif>
+<img src="https://github.com/abidhusein/Tutorial_Menggunakan_Github/blob/main/ssan/1g.gif"/>
 </p>
 
 
