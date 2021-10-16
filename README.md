@@ -1,9 +1,8 @@
 # seins
 ## Tutorial
 
-<p align="center">
+
 [Gif 1](ssan/1g.gif)
-</p>
 
 
 
