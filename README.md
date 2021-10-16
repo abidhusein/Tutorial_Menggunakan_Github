@@ -1,6 +1,6 @@
 # seins
-## Belajar Tag Dasar HTML
+## Tutorial
 
-### Membuat Paragraf
+### Cara Membuat Akun Github
 Tampilan gambar<p>
 ![Gambar 1](ssan/1.png)
