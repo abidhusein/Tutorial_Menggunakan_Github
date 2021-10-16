@@ -46,3 +46,10 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 - Kemudian klik kanan pada mouse pilih "Git Bash Here"
 
 ![Gambar 6](ssan/6.png)
+
+- Kemudian copy link HTTPS Github kalian
+```bash
+> git clone 'link Github'
+```
+
+![Gambar 7](ssan/7.png)
