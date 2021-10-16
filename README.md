@@ -53,3 +53,10 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 ```
 
 ![Gambar 7](ssan/7.png)
+
+- Kemudian muncul file README.md di file kalian
+- Klik kanan pada mouse, lalu pilih open with pilih "Visual Studio Code"
+- Jika kalian belum instal "Visual Studio Code" kalian bisa download [VCS](https://code.visualstudio.com/)
+- Tutorial cara instal [Video instalasi VCS](https://www.youtube.com/watch?v=OSmaWPSgvTQ)
+
+![Gambar 8](ssan/8.png)
