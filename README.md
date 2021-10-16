@@ -25,4 +25,9 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 
 ![Gambar 4](ssan/4.png)
 
--
+- Jika kalian belum isntal git-scm silahkan instal terlebih dahulu (skip saja jika sudah instal)
+- [git-scm](https://git-scm.com/) klik Downlaod for Windows
+- Jika sudah didownload silahkan instal seperti biasa, klik next saja
+
+![Gambar 5](ssan/5.png)
+
