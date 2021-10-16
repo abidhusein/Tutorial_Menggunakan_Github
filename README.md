@@ -1,6 +1,12 @@
 # seins
 ## Tutorial
 
+<p align="center">
+[Gif 1](ssan/1g.gif)
+</p>
+
+
+
 ### Cara Membuat Akun Github
 - Buka [Github](https://github.com)<p>
 - Jika Belum mendaftar klik Regiter/Sign up <p>
