@@ -4,6 +4,8 @@
 <p align="center">
 <img src="https://github.com/abidhusein/Tutorial_Menggunakan_Github/blob/main/ssan/1g.gif"/>
 </p>
+<p align="center">
+<a href="https://api.whatsapp.com/send?phone=6281219019084"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
 
 
 ### Cara Membuat Akun Github
