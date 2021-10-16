@@ -1,5 +1,5 @@
-# seins
-## Tutorial
+## Latihan 1
+## Tutorial Github
 
 <p align="center">
 <img src="https://github.com/abidhusein/Tutorial_Menggunakan_Github/blob/main/ssan/1g.gif"/>
@@ -42,3 +42,7 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 
 ![Gambar 5](ssan/5.png)
 
+- Buat satu folder kosong untuk directory kerja
+- Kemudian klik kanan pada mouse pilih "Git Bash Here"
+
+![Gambar 6](ssan/6.png)
