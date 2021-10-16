@@ -1,10 +1,9 @@
 # seins
 ## Tutorial
 
-<p align="center>
-![Gif 1](ssan/1g.gif)
+<p align="center">
+<img src="1g.gif>
 </p>
-
 
 
 ### Cara Membuat Akun Github
