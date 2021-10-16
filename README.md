@@ -6,6 +6,10 @@
 </p>
 <p align="center">
 <a href="https://api.whatsapp.com/send?phone=6281219019084"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
+<p align="center">
+<p align="center">
+<a href="https://github.com/abidhusein"><img title="Author" src="https://img.shields.io/badge/Author%20-Bilal%20Hafidz-blue.svg?style=flat&logo=github"></a>
+<p align="center">
 
 
 ### Cara Membuat Akun Github
