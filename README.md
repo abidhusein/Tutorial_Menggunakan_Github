@@ -51,6 +51,7 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 ```bash
 > git clone 'link Github'
 ```
+- Tekan Enter pada keyboard
 
 ![Gambar 7](ssan/7.png)
 
@@ -60,3 +61,12 @@ Setelah muncul tampilan seperti gambar dibawah<p>
 - Tutorial cara instal [Video instalasi VCS](https://www.youtube.com/watch?v=OSmaWPSgvTQ)
 
 ![Gambar 8](ssan/8.png)
+
+Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
+- Edit file README.md, lalu jangan lupa  di save (ctrl+s)
+- Setelah itu buka Git Bash yang sebelumnya
+```bash
+> git add README.md
+> git commit -m "Dekripsi"
+> git push -u origin main
+```
