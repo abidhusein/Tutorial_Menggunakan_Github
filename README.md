@@ -79,6 +79,7 @@ Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
 
 ![Gambar 9](ssan/9a.png)
 
-- SELESAI.
+- SELESAI
+
 
 ## Terima Kasih
