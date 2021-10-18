@@ -70,3 +70,5 @@ Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
 > git commit -m "Dekripsi"
 > git push -u origin main
 ```
+![Gambar 9](ssan/9a.png)
+
