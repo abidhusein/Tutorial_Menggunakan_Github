@@ -11,9 +11,14 @@
 <a href="https://github.com/abidhusein"><img title="Author" src="https://img.shields.io/badge/Author%20-Abid%20Husein-blue.svg?style=flat&logo=github"></a>
 <p align="center">
 
+## Requirenments
+- [GitHub](https://github.com)
+- [Git-scm](https://git-scm.com/)
+- [Visual Code Studio](https://code.visualstudio.com/)
 
-### Cara Membuat Akun Github
-- Buka [Github](https://github.com)<p>
+
+### Cara Membuat GitHub
+- Buka [GitHub](https://github.com)<p>
 - Jika Belum mendaftar klik Regiter/Sign up <p>
 - Jika sudah mendaftar silahkan klik Masuk/Sign in <p>
 
@@ -70,6 +75,10 @@ Setelah terbuka Visual Code Studio, pastikan kalian koding di file README.md</p>
 > git commit -m "Dekripsi"
 > git push -u origin main
 ```
+- Selesai terupload dan di push Ke GitHub
+
 ![Gambar 9](ssan/9a.png)
 
-[Youtube](https://www.youtube.com/watch?v=afRki2_aNKg)
+- SELESAI
+
+## Terima Kasih
